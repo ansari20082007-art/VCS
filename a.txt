@@ -1,2 +1,6 @@
 abcd
+<<<<<<< HEAD
 this is 2nd line
+=======
+efgh
+>>>>>>> 9703001cc88fcb6ff48231a162f9f17815c87c84
